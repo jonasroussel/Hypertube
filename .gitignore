@@ -1,0 +1,4 @@
+.DS_Store
+/pids
+/database
+/node_modules
